@@ -15,7 +15,7 @@ export default function Calculator() {
         <div className="brand-logo">💸</div>
         <div>
           <div className="brand-name">RateRight</div>
-          <div className="brand-sub">by Adeoye Malumi</div>
+          <div className="brand-sub">by Adeoye Malumi (Free App)</div>
         </div>
       </div>
 
