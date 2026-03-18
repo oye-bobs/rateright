@@ -30,6 +30,10 @@ export default function Calculator() {
       {active === 0 && <HourlyTab />}
       {active === 1 && <ProjectTab />}
       {active === 2 && <IncomeTab />}
+
+      <p style={{ textAlign: 'center', fontSize: '11px', color: '#bbb', marginTop: '1.5rem' }}>
+  🔒 Secured with HTTPS · RateRight by Adeoye Malumi (Free App)
+</p>
     </div>
   );
 }
